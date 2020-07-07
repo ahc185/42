@@ -1,5 +1,0 @@
-Credentials cache: API:0C7DDCB0-91DC-41DF-BEA2-83872134733C
-        Principal: asenouci@42.FR
-
-  Issued                Expires             Flags    Principal
-Mar  9 13:17:59 2020  Mar 16 13:17:32 2020  FPIA   krbtgt/42.FR@42.FR
